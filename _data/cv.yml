@@ -41,3 +41,11 @@ cv:
         start_date: 2023
         end_date: current
         summary: "What are the links between community stability and biodiversity decline ?"
+    
+    Interests:
+      - name: Ecology
+        keywords: "community ecology, ecological stability, biodiversity change"
+      - name: Computing tools
+        keywords: "reproducible science, high performance computing, automation"
+      - name: Hobbies
+        keywords: "running, gardening, vegan cooking"
