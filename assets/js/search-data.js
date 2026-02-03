@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "CV",
-          description: "About me. Download my full CV by clicking on the icon on the right (in French)",
+          description: "Download my full CV by clicking on the icon on the right (in French)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -94,7 +94,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/cv_27-01.pdf", "_blank");
+          window.open("/assets/pdf/cv_03_02.pdf", "_blank");
         },
       },{
         id: 'social-email',
