@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "CV",
-          description: "Download my full CV by clicking on the icon on the right (in French)",
+          description: "Download my full CV by clicking on the icon on the right",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -46,6 +46,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-first-phd-paper-is-out",
           title: 'First PhD paper is out !',
+          description: "",
+          section: "News",},{id: "news-second-phd-chapter-is-out-as-a-preprint",
+          title: 'Second PhD chapter is out as a preprint !',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
