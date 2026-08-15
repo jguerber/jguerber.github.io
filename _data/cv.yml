@@ -21,18 +21,18 @@ cv:
   sections:
     Education:
       - institution: "Université de Montpellier"
-        location: Montpellier, France
+        location: Montpellier
         area: "DARWIN track: Ecology and Evolution"
-        studyType: Second year of Master's
+        studyType: Master of Science
         start_date: 2021
         end_date: 2022
 
-      - institution: IBENS
-        location: Paris, France
-        area: Interdisciplinary Master's in Life Sciences
-        studyType: First year of Master's
-        start_date: 2019
-        end_date: 2020
+      - institution: "Ecole Normale Supérieure - PSL"
+        location: Paris
+        area: Biology department
+        studyType: Student civil servant
+        start_date: 2018
+        end_date: 2023
 
     Experience:
       - company: Muséum National d'Histoire Naturelle
@@ -40,7 +40,7 @@ cv:
         location: "CESCO, Paris"
         start_date: 2023
         end_date: current
-        summary: "What are the links between community stability and biodiversity decline ?"
+        summary: "What are the links between community stability and long-term population trends ?"
     
     Interests:
       - name: Ecology
