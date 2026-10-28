@@ -100,14 +100,14 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/cv_03_02.pdf", "_blank");
+          window.open("/assets/pdf/cv_10_28.pdf", "_blank");
         },
       },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%6F%73%71%75%69%6E.%67%75%65%72%62%65%72@%6D%6E%68%6E.%66%72", "_blank");
+          window.open("mailto:%6A%6F%73%71%75%69%6E.%67%75%65%72%62%65%72@%70%72%6F%74%6F%6E%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
