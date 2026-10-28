@@ -11,13 +11,6 @@ cv:
     - network: ResearchGate
       username: Josquin-Guerber
 
-  address:
-    street: 61 rue Buffon
-    city: Paris
-    region: 
-    postalCode: 75005
-    countryCode: FR
-
   sections:
     Education:
       - institution: "National Museum of Natural History"
