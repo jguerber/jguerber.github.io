@@ -1,6 +1,6 @@
 cv:
   name: Josquin Guerber
-  email: josquin.guerber@mnhn.fr
+  email: josquin.guerber@protonmail.com
   location: Paris, France
   image: ""
   summary: I use statistical tools and theoretical models to investigate community stability under biodiversity change.
@@ -20,6 +20,17 @@ cv:
 
   sections:
     Education:
+      - institution: "National Museum of Natural History"
+        location: Paris
+        area: "Ecological sciences"
+        studyType: PhD
+        start_date: 2023
+        end_date: 2026
+      - institution: "Ecole Normale Supérieure - PSL"
+        location: Paris
+        area: "Biology department, Ecology and evolution track"
+        start_date: 2018
+        end_date: 2023
       - institution: "Université de Montpellier"
         location: Montpellier
         area: "DARWIN track: Ecology and Evolution"
@@ -27,20 +38,18 @@ cv:
         start_date: 2021
         end_date: 2022
 
-      - institution: "Ecole Normale Supérieure - PSL"
-        location: Paris
-        area: Biology department
-        studyType: Student civil servant
-        start_date: 2018
-        end_date: 2023
-
     Experience:
       - company: Muséum National d'Histoire Naturelle
         position: PhD Student
         location: "CESCO, Paris"
         start_date: 2023
-        end_date: current
+        end_date: 2026
         summary: "What are the links between community stability and long-term population trends ?"
+      - company: "Ecole Normale Supérieure - PSL"
+        location: "Paris"
+        position: Student civil servant
+        start_date: 2018
+        end_date: 2023
     
     Interests:
       - name: Ecology
