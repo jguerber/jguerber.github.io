@@ -25,6 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a 3rd year PhD student at CESCO and [iEES](https://iees-paris.fr/) in Paris. I work with Colin Fontaine and Elisa Thébault on community stability under biodiversity change.
+I am a quantitative ecologist interested in the response of ecological communities to complex perturbations.
 
-I was previously involved in theoretical work in the [RED-BIO project](https://www.fondationbiodiversite.fr/wp-content/uploads/2020/08/FRB-Cesab_Fiche-presentation-projet-RedBio-ENG.pdf) about nutrient dynamics in food chains with Nicolas Loeuille and Isabelle Gounand, as well as in image analysis automation in the [BIODESERT project](https://biodesert.maestrelab.com/) with Benoît Pichon and Sonia Kéfi.
+I did my PhD at CESCO and [iEES](https://iees-paris.fr/) in Paris, working with Colin Fontaine and Elisa Thébault on community stability under biodiversity change.
+
+Previous projects include theoretical work in the [RED-BIO project](https://www.fondationbiodiversite.fr/wp-content/uploads/2020/08/FRB-Cesab_Fiche-presentation-projet-RedBio-ENG.pdf) about nutrient dynamics in food chains with Nicolas Loeuille and Isabelle Gounand, as well as image analysis automation in the [BIODESERT project](https://biodesert.maestrelab.com/) with Benoît Pichon and Sonia Kéfi.
