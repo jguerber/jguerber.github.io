@@ -1,8 +1,8 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/cv_03_02.pdf # path to your CV PDF file
-email: josquin.guerber@mnhn.fr # your email address
+cv_pdf: /assets/pdf/cv_10_28.pdf # path to your CV PDF file
+email: josquin.guerber@protonmail.com # your email address
 github_username: jguerber
 research_gate_profile: Josquin-Guerber
 orcid_id: 0000-0001-5464-8871
